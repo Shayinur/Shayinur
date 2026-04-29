@@ -30,7 +30,7 @@ I'm a Bachelor of Computer Science (BCS) student at the University of British Co
 
 **Bunny Hill** — A ski run recommender that suggest trails across BC mountains based on user skill level. *Node.js · Express · Claude API*
 
-**Uyghur Dutar Tuner** — A custom tuner for Uyghur dutar with visual guide and help beginners. *React · JavaScript · FastAPI*
+**[Uyghur Dutar Tuner](https://github.com/Shayinur/dutar-tuner.git)** — A custom tuner for Uyghur dutar with visual guide and help beginners. *React · JavaScript · FastAPI*
 
 ---
 
