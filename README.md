@@ -1,4 +1,4 @@
-# Hi, I'm Shay!
+# Hello,سالام,你好! I'm Shay
 
 <!--
 **Shayinur/Shayinur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
