@@ -26,7 +26,7 @@ I'm a Bachelor of Computer Science (BCS) student at the University of British Co
 
 ## Featured Projects
 
-**Uyghur-Latin Typing Application** — A typing tool that bridges Uyghur and Latin script, built to support language learners and speakers. *Java · Swing · Observer pattern*
+**[Uyghur-Latin Typing Application](https://github.com/Shayinur/Uyghur-Latin-Typing-App)** — A typing tool that bridges Uyghur and Latin script, built to support language learners and speakers. *Java · Swing · Observer pattern*
 
 **Bunny Hill** — A ski run recommender that suggest trails across BC mountains based on user skill level. *Node.js · Express · Claude API*
 
